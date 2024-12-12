@@ -13,7 +13,7 @@ Bem-vindo ao Jogo do Sorteador de Números! Neste projeto, você pode adivinhar 
 
 ## Como Jogar
 
-1. Acesse: [link-do-jogo](https://numero-secreto-novo.vercel.app/)
+1. Acesse: [link-do-jogo](https://cerqueiracesar.github.io/sorteador-numeros/)
 2. Defina o intervalo de números (por exemplo, de 1 a 50).
 3. Escolha a quantidade de números que serão sorteados.
 4. Pre-estabeleça um intervalo e clique em **"Sortear"**.
