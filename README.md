@@ -8,18 +8,16 @@ Bem-vindo ao Jogo do Sorteador de Números! Neste projeto, você pode adivinhar 
 
 - O jogo permite que o jogador defina um intervalo de números (por exemplo, de 1 a 100).
 - O jogador também pode escolher quantos números serão sorteados dentro desse intervalo.
-- A cada rodada, o jogo escolhe um número aleatório dentro do intervalo definido.
-- O jogador deve tentar adivinhar o número secreto.
-- Após cada tentativa, o jogo informa se o número sorteado é maior ou menor do que o número digitado pelo jogador.
-- Um novo número é sorteado e o jogo reinicia a cada nova rodada.
+- A cada rodada, o jogo escolhe "n" número aleatório dentro do intervalo definido.
+- Novos números são sorteados e o jogo reinicia a cada nova rodada.
 
 ## Como Jogar
 
 1. Acesse: [link-do-jogo](https://numero-secreto-novo.vercel.app/)
 2. Defina o intervalo de números (por exemplo, de 1 a 50).
-3. Escolha a quantidade de números sorteados.
-4. Insira um número dentro do intervalo definido e clique em **"Sortear"**.
-5. Receba, abaixo dos botões "Sortear" e "Reiniciar", os números sorteados.
+3. Escolha a quantidade de números que serão sorteados.
+4. Pre-estabeleça um intervalo e clique em **"Sortear"**.
+5. Abaixo dos botões "Sortear" e "Reiniciar", estarão os números sorteados.
 
 ## Tecnologias Utilizadas
 
