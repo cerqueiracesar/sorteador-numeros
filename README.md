@@ -2,13 +2,13 @@
 
 # Sorteador de Números
 
-Bem-vindo ao Jogo do Sorteador de Números! Neste projeto, você pode adivinhar um número sorteado dentro de um intervalo determinado. O objetivo é adivinhar corretamente o número sorteado entre dois valores e dentro de um intervalo escolhido.
+Bem-vindo ao Jogo do Sorteador de Números! Neste projeto, você pode sortear uma quantidade de números dentro de um intervalo pre-determinado. O objetivo é criar uma sequência de números aleatórios dentro de um intervalo escolhido.
 
 ## Funcionalidades
 
 - O jogo permite que o jogador defina um intervalo de números (por exemplo, de 1 a 100).
 - O jogador também pode escolher quantos números serão sorteados dentro desse intervalo.
-- A cada rodada, o jogo escolhe "n" número aleatório dentro do intervalo definido.
+- A cada rodada, o jogo escolhe uma quantidade predefinida de números aleatórios dentro do intervalo definido.
 - Novos números são sorteados e o jogo reinicia a cada nova rodada.
 
 ## Como Jogar
